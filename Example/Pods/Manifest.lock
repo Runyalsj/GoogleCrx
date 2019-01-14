@@ -1,0 +1,16 @@
+PODS:
+  - GoogleCrx (0.1.0)
+
+DEPENDENCIES:
+  - GoogleCrx (from `../`)
+
+EXTERNAL SOURCES:
+  GoogleCrx:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GoogleCrx: f3b76ff18a056d3df3b41d7f456eee5d151f27ad
+
+PODFILE CHECKSUM: 6b13fe3b03802e900cdf5d3eeb29a312c909e34e
+
+COCOAPODS: 1.6.0.beta.2
